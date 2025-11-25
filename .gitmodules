@@ -1,0 +1,4 @@
+[submodule "centralized-base_modules"]
+	path = centralized-base_modules
+	url = https://github.com/cybrodevelopers/centralized-base_modules.git
+	branch = main
